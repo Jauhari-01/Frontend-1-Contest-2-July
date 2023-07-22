@@ -2,6 +2,12 @@
     margin: 0;   
     padding: 0;
 }
+nav {
+    position: sticky;
+    top: 0px;
+    width: 100vw;
+    background: white;
+}
 .header{
     width: 100vw;
     display: flex;
