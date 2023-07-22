@@ -102,7 +102,7 @@ ul{
 .hero-section{
     width:100vw;
     height: 742px;
-    margin-top: 155px;
+    margin-top: 100px;
     margin-left: 27px;
     border-radius: 50px;
     background: linear-gradient(103deg, rgba(4,131,206,1) 0%, rgba(130,211,169,1) 65%, rgba(45,239,253,1) 100%);
@@ -275,4 +275,39 @@ ul{
     background-color: white;
     color: rgba(33, 57, 73, 1);
     margin-top: 41px;
+}
+footer{
+    width:100vw;
+    height: 707px;
+    margin-top: 100px;
+    margin-left: 27px;
+    border-radius: 50px;;
+    background: linear-gradient(103deg, rgba(153,199,226,1) 0%, rgba(193,203,208,1) 41%, rgba(130,191,211,1) 65%, rgba(123,184,196,1) 86%, rgba(45,204,253,1) 100%);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.footerheading{
+    color: rgba(0, 0, 0, 1);
+    margin-left: 226px;
+}
+p.p1{
+    font-size: 30px;
+}
+p.p2 {
+    font-size: 45px;
+    line-height: 20px;
+}
+.footer-btn{
+    color: white;
+    box-shadow: 2px 3px 2px 0px rgba(0, 0, 0, 0.25);
+    border: none;
+    width: 210.86px;
+    height: 48px;
+    margin-top: 90px;
+    margin-left: 226px;
+    background: linear-gradient(91.71deg, #2C56AA 14.14%, #3BB08B 84.43%);
+    border-radius: 24px;
+    font-size: 27px;
+    font-weight: 500;
 }
